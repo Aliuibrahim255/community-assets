@@ -1,4 +1,5 @@
 
+
 # React Native widget
 
 Our React Native widget is easy to integrate into any react native app and allows users to effortlessly expand their team by inviting their app users to join their ice micro-community.
